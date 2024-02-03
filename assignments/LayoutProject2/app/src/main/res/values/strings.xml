@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LayoutProject2</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="checkbox1">Check Box 1</string>
+    <string name="text">This is my layout project</string>
+    <string name="checkbox2">Check Box 2</string>
+    <string name="checkbox3">Check Box 3</string>
+    <string name="checkbox4">Check Box 4</string>
+    <string name="checkbox5">Check Box 5</string>
+    <string name="checkbox6">Check Box 6</string>
+    <string name="todo">TODO</string>
+    <string name="checkbox7">Check Box 1</string>
+    <string name="checkbox8">Check Box 2</string>
+    <string name="checkbox9">Check Box 3</string>
+    <string name="checkbox10">Check Box 4</string>
+    <string name="checkbox11">Check Box 5</string>
+    <string name="checkbox12">Check Box 6</string>
+</resources>
