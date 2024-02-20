@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">chapter40ViewModelDemo_basic</string>
+    <string name="button" translatable="false">Add Name</string>
+    <string name="textView">No names to display</string>
+    <string name="inputDecimal" translatable="false">Enter name</string>
+
+</resources>
