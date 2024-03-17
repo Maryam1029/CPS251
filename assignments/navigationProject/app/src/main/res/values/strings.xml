@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">chapter48_navigationV3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input">Enter String</string>
+    <string name="btn">DISPLAY IMAGE 1</string>
+    <string name="button">DISPLAY IMAGE 2</string>
+    <string name="button2">DISPLAY IMAGE 3</string>
+    <string name="title_goes_here">Title Goes Here</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>
